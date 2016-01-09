@@ -1,0 +1,265 @@
+[ 2016-01-09T08:44:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.018001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.018001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.021001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-01-09T08:44:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017001s ]
+
+[ 2016-01-09T08:44:18+08:00 ] 127.0.0.1 /Public/Home/assets/ifavicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-01-09T09:09:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T09:52:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:10:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:11:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:11:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:13:19+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:13:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-01-09T10:14:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:16:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:27:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:27:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:28:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:28:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:29:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:30:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:47:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:47:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T10:47:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-01-09T10:58:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T10:59:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:00:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:00:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-01-09T11:02:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-01-09T11:03:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:04:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-01-09T11:04:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T11:11:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:11:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:12:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-01-09T11:12:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:13:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:13:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:15:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T11:15:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-01-09T11:16:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T11:17:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-01-09T11:18:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-01-09T12:22:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-09T15:08:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.156009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.099005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.099005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.032001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.032001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.497028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.497028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.060004s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.061004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.045002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.045002s ]
+
+[ 2016-01-09T15:08:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015001s ]
+
+[ 2016-01-09T15:08:34+08:00 ] 127.0.0.1 /Public/Home/assets/ifavicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-01-09T15:11:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-09T15:20:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-01-09T15:21:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

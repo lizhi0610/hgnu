@@ -1,0 +1,1 @@
+open_basedir="E:\Nginx\vhosts\hgnu.com\;E:\Nginx\memcached\;E:\Nginx\phpmyadmin\;E:\Nginx\temp\;C:\Windows\Temp\"
